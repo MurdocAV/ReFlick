@@ -5,6 +5,7 @@ A homage & modern remaster of the original open-source flick game, built using R
 
 Setup: Use node package installer to install all dependencies on your device.
 > npm install
+
 To run the developer version locally.
 > npm run dev
 
