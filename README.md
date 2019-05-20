@@ -3,6 +3,9 @@ A homage & modern remaster of the original open-source flick game, built using R
 
 **Original:** https://www.flickgame.org/
 
+Setup: Use node package installer to install all dependencies on your device with: (To use follow the dev script)
+> npm install
+> npm run dev
 
 **Licensing:**
 
